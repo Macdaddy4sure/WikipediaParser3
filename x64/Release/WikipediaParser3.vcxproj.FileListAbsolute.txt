@@ -1,0 +1,2 @@
+F:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser3\WikipediaParser3\x64\Release\WikipediaParser3.exe
+Z:\Backup\_AI\_AugmentedIntelligence\Wikis2SQL\WikipediaParser3\WikipediaParser3\x64\Release\WikipediaParser3.exe
